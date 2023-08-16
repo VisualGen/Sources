@@ -15,3 +15,6 @@ All the information in this repository is for educational purposes only. The aut
 | Uranus  | 2,871.0 million km    | 17.9 Earth hours | 27    |
 | Neptune | 4,497.1 million km    | 19.1 Earth hours | 13    |
 
+```PowerShell
+Write.Host "Hello World..."
+```
