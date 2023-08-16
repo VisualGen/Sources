@@ -18,3 +18,4 @@ All the information in this repository is for educational purposes only. The aut
 ```PowerShell
 Write.Host "Hello World..."
 ```
+<script src="https://gist.github.com/wdullaer/f1af16bd7e970389bad3.js"></script>
