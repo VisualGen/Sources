@@ -1,0 +1,16 @@
+# Build output
+out/
+TestResults/
+*.zip
+*.nupkg
+
+# Logs and exported data (may contain tenant data)
+*.log
+/Reports/
+/Backups/
+
+# Local tooling
+.claude/settings.local.json
+.vscode/*
+!.vscode/settings.json
+Thumbs.db
